@@ -3614,11 +3614,6 @@ section.lazy-placeholder:after {
 .cid-s3MgI3Gn8C .mbr-section-btn {
   color: #232323;
 }
-.cid-s3NAotIR7Y {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
 .cid-s3MhLcB0DD {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -3630,6 +3625,9 @@ section.lazy-placeholder:after {
 }
 .cid-s3MhLcB0DD .mbr-text {
   color: #232323;
+  text-align: center;
+}
+.cid-s3MhLcB0DD .mbr-text P {
   text-align: center;
 }
 .cid-s3MjKMqZIf {
