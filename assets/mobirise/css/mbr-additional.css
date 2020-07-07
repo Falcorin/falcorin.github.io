@@ -4503,7 +4503,7 @@ section.lazy-placeholder:after {
 }
 .cid-s3XRZc7meQ {
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-s3XRZc7meQ .mbr-text,
@@ -4571,7 +4571,7 @@ section.lazy-placeholder:after {
 }
 .cid-s3XTHPM8hS {
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-s3XTHPM8hS .mbr-text,
@@ -6330,13 +6330,153 @@ section.lazy-placeholder:after {
   padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-s3Y8J2rHIs {
+.cid-s3YaVpVRjw {
+  background: #ffffff;
   padding-top: 0px;
+  padding-bottom: 30px;
+}
+.cid-s3YaVpVRjw .image-block {
+  margin: auto;
+}
+.cid-s3YaVpVRjw figcaption {
+  position: relative;
+}
+.cid-s3YaVpVRjw figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s3YaVpVRjw .image-block {
+    width: 100% !important;
+  }
+}
+.cid-s43hOmMZtr {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s43hOmMZtr .mbr-text,
+.cid-s43hOmMZtr blockquote {
+  color: #767676;
+}
+.cid-s43hOmMZtr .mbr-text {
+  color: #232323;
+}
+.cid-s43hOmMZtr .mbr-text DIV {
+  text-align: center;
+}
+.cid-s43iviaa7G {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s43iviaa7G .mbr-text,
+.cid-s43iviaa7G blockquote {
+  color: #767676;
+}
+.cid-s43iviaa7G .mbr-text {
+  color: #fd0606;
+  text-align: center;
+}
+.cid-s43iE91qk8 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s43iE91qk8 .mbr-text,
+.cid-s43iE91qk8 blockquote {
+  color: #767676;
+}
+.cid-s43iE91qk8 .mbr-text {
+  text-align: center;
+  color: #232323;
+}
+.cid-s43jbHxRqg {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s43jbHxRqg .mbr-text,
+.cid-s43jbHxRqg blockquote {
+  color: #767676;
+}
+.cid-s43jbHxRqg .mbr-text {
+  color: #232323;
+  text-align: center;
+}
+.cid-s43jTKZ2Qy {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s43jTKZ2Qy .mbr-text {
+  color: #232323;
+}
+.cid-s43kq9geBx {
+  padding-top: 15px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
-.cid-s3Y8J2rHIs .mbr-section-subtitle {
+.cid-s43kq9geBx .mbr-text,
+.cid-s43kq9geBx blockquote {
+  color: #767676;
+}
+.cid-s43kq9geBx .mbr-text DIV {
+  text-align: center;
+}
+.cid-s43kq9geBx .mbr-text {
+  text-align: center;
   color: #232323;
+}
+.cid-s43kGpY0jr {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #232323;
+}
+.cid-s43kGpY0jr .mbr-text {
+  color: #fd8e13;
+}
+.cid-s43kGpY0jr .mbr-text P {
+  text-align: center;
+}
+.cid-s43lbV0joT {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s43lbV0joT .mbr-text,
+.cid-s43lbV0joT blockquote {
+  color: #767676;
+}
+.cid-s43lbV0joT .mbr-text DIV {
+  text-align: left;
+}
+.cid-s43lbV0joT .mbr-text {
+  color: #232323;
+}
+.cid-s43lUpZaNL {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s43lUpZaNL .line {
+  background-color: #fd8e13;
+  color: #fd8e13;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s43lUpZaNL .section-text {
+  padding: 2rem 0;
+}
+.cid-s43lUpZaNL .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s43lUpZaNL .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-s3Y9ofiLJf {
   background: #ffffff;
@@ -6361,7 +6501,7 @@ section.lazy-placeholder:after {
 }
 .cid-s3Y9POFppi {
   padding-top: 30px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-s3Y9POFppi .counter-container {
@@ -6395,27 +6535,6 @@ section.lazy-placeholder:after {
 }
 .cid-s3Y9POFppi .mbr-text {
   color: #232323;
-}
-.cid-s3YaVpVRjw {
-  background: #ffffff;
-  padding-top: 0px;
-  padding-bottom: 30px;
-}
-.cid-s3YaVpVRjw .image-block {
-  margin: auto;
-}
-.cid-s3YaVpVRjw figcaption {
-  position: relative;
-}
-.cid-s3YaVpVRjw figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-s3YaVpVRjw .image-block {
-    width: 100% !important;
-  }
 }
 .cid-s3Ybcwsz8W {
   padding-top: 30px;
@@ -6472,6 +6591,9 @@ section.lazy-placeholder:after {
 }
 .cid-s3Yc0qPPyh .mbr-text {
   color: #232323;
+}
+.cid-s3Yc0qPPyh .mbr-text P {
+  text-align: center;
 }
 .cid-s3Yci64Os2 {
   padding-top: 15px;
